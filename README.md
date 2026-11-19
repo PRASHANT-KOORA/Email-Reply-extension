@@ -12,8 +12,8 @@ The core logic lives in a **Java / Spring Boot** REST service that constructs co
 
 ### 1. Backend (Spring Boot)
 Configure the following environment variables on your system:
-- `GEMINI_API_URL`
-- `GEMINI_API_KEY`
+- `GEMINI_URL`
+- `GEMINI_KEY`
 
 Run from `email-writer/`:
 ```bash
